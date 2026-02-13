@@ -12,4 +12,4 @@ Voy a hacer mi página de wordpress sobre una pequeña empresa de reformas y dis
 <img width="1920" height="911" alt="FireShot Capture 006 - Home - Digitalizacion 1DAM A -  127 0 0 1" src="https://github.com/user-attachments/assets/c8145e16-eabf-4f3b-9ff4-c7f97228eb03" />
 
 ### Cambios 11/02
-<img width="100%" alt="Cambios_11-02_PaginaCompleta" src="https://github.com/user-attachments/assets/6fa81578-cd07-430c-8f59-0f523105ebfb" />
+<img width="100%" alt="Cambios_11-02_PaginaCompleta" src="https://github.com/user-attachments/assets/3b394153-268f-4b71-91a0-c938ae9cb986" />
